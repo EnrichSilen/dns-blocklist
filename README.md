@@ -1,2 +1,2 @@
 # dns-blocklist
-Personal DNS blocklist
+List of domains I block on my DNS resolver
