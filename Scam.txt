@@ -1,0 +1,6 @@
+# Scam websites blocklist
+# Domains: 1 | Revision: 11-02-2020
+# Services: Multiple
+# Source: https://github.com/EnrichSilen/dns-blocklist
+
+0.0.0.0 ltaccwgx.greatszdravs.com
