@@ -3,4 +3,4 @@
 # Services: Multiple
 # Source: https://github.com/EnrichSilen/dns-blocklist
 
-0.0.0.0 ltaccwgx.greatszdravs.com
+0.0.0.0 greatszdravs.com
