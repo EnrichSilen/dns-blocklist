@@ -4,3 +4,4 @@
 # Source: https://github.com/EnrichSilen/dns-blocklist
 
 0.0.0.0 greatszdravs.com
+0.0.0.0 dirtyflirt3.com
