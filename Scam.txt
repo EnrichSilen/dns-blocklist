@@ -1,7 +1,7 @@
 # Scam websites blocklist
 # Domains: 2 | Revision: 12-06-2021
 # Services: Multiple
-# Source: https://github.com/EnrichSilen/dns-blocklist
+# Source: https://github.com/Nirsiel/dns-blocklist
 
 0.0.0.0 greatszdravs.com
 0.0.0.0 dirtyflirt3.com
