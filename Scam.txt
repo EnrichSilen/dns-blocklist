@@ -1,5 +1,5 @@
 # Scam websites blocklist
-# Domains: 1 | Revision: 11-02-2020
+# Domains: 2 | Revision: 12-06-2021
 # Services: Multiple
 # Source: https://github.com/EnrichSilen/dns-blocklist
 
