@@ -1,7 +1,8 @@
 # Scam websites blocklist
-# Domains: 2 | Revision: 12-06-2021
+# Domains: 2 | Revision: 11-06-2021
 # Services: Multiple
+# Target: Adguard Home
 # Source: https://github.com/Nirsiel/dns-blocklist
 
-0.0.0.0 greatszdravs.com
-0.0.0.0 dirtyflirt3.com
+||greatszdravs.com^
+||dirtyflirt3.com^
